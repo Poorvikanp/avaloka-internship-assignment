@@ -1,4 +1,4 @@
-# Avaloka Internship Assignment
+# Avaloka Assignment
 
 Java implementation of the **LRU Cache** and **Event Scheduler** problems for the Avaloka internship assignment.
 
